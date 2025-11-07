@@ -1,0 +1,7 @@
+# Add your dependencies here
+# 
+# Examples:
+# pandas>=2.0.0
+# flask>=3.0.0
+# fastapi>=0.104.0
+# sqlalchemy>=2.0.0
