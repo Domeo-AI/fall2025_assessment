@@ -28,6 +28,8 @@ Before you start building, take time to understand the structure of `data/unicor
 | Column             | Description                                          | Data Type | Example                     |
 | ------------------ | ---------------------------------------------------- | --------- | --------------------------- |
 | `CustomerName`     | The name of the customer company                     | String    | "LifeSpring Medical"        |
+| `customer number`  | Generated unique customer identifier                 | String    | "614771"                    |
+| `parent customer`  | Parent customer's customer number, if applicable     | String    | "730937"                    |
 | `InvoiceNumber`    | Unique identifier for each invoice                   | String    | "DF2024988"                 |
 | `InvoiceDate`      | Date when the invoice was issued                     | Date      | "11/19/24"                  |
 | `CustomerPoNumber` | Customer's purchase order reference number           | String    | "PO-000001"                 |
